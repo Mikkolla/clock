@@ -7,19 +7,6 @@ body {
 
 }
 
-.containe {
-    width: 1430px;
-    height: 100%;
-}
-
-._container {
-    max-width: 1046px;
-    margin: 0 auto;
-
-}
-
-
-
 .header {
     position: absolute;
     width: 100%;
